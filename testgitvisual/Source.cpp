@@ -1,1 +1,2 @@
-version 1
+version 1 du fichier
+puis version 2
