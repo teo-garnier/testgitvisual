@@ -1,1 +1,2 @@
-version 3.0 modifiée en 3.1
+sur la branche 3 :
+version 3.2
